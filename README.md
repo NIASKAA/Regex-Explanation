@@ -62,6 +62,11 @@ basic email validation. Now this of course means that you would need to adjust t
 match different scenarios with more special characters. Refer to this link for more info: 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet
 
+## TLDR..
+If you really want a super basic explanation... 
+
+Basically you have a string of code that looks for a string of text or number with / -input your special characters- /. 
+
 ## Authors
 
 - [@NIASKA / Alan](https://github.com/NIASKAA)
